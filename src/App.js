@@ -28,6 +28,10 @@ function App() {
             <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAQZJREFUSEvt1T1KBEEQhuFnQ6+gILiCP8cwNDLdIxgYiiCCsQaaiGCw5/AIHkAFI0XB0FAwEXVHbOkd7V566TFy0u6qt/qrqm96Ov56HeeXA2zgACuFRdxgG+dNXA7wiLnC5OH6HRYnAUpzr+II61+Bn8XX7kEftylAFc3xngJU0TwHGCMXNKAdl3zBPyBM5J9IdI+F9h7U6sE1dn6zilqAsQGMN7lzwAPmW/MfCljDGZYS+/Gtefs8fkFjFYdYji7N4hiDzOJdYjdongPEZ0GulxF0ZuTvz9jHCV4LtjzppgHwhiH28FSSONxN2XUDuMAmrqZJPAmwhdPIGadm1P7h/Cikc8AHqrk7GaSdRPsAAAAASUVORK5CYII=" alt='Messages icon'/>
               <a href='#'>Messages</a>
             </li>
+            <li className='hover:bg-purple-800 rounded-xl'>
+              <img className='rounded-full border-2 border-white' src='https://media.licdn.com/dms/image/D4D03AQF95ahSfjKzAw/profile-displayphoto-shrink_200_200/0/1691935601904?e=2147483647&v=beta&t=NBGh4NQXYFC5C5EUMh3fPPSDFLVOcEAMgaJhK_-g2dY' alt='User Profile Image' width="37" height="37"/>
+            <a href='#'>User Profile</a>
+            </li>
           </ul> 
       </span>
           </span>
